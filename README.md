@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**bradli99/bradli99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Python Desktop App
 - 🌱 I’m currently learning more on Python
 - 🤔 I’m looking to work with a team
